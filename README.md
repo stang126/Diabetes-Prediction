@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-Classification project for predicting if a patient has diabetes
+This project includes EDA and the classification of patients with and without diabetes based on their health performance metrics, such as glucose levels and blood pressure. The data used in this notebook was taken from [Kaggle](https://www.kaggle.com/datasets/samira1992/diabetes-intermediate-dataset/data). A basic background in diabetes as well as how health metrics are affected by the diseases is included. 
